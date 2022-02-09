@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventum.One2", "Eventum.One2.csproj", "{EC1FE92F-AA1F-45FA-9CE6-F1FB92485C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1FE92F-AA1F-45FA-9CE6-F1FB92485C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1FE92F-AA1F-45FA-9CE6-F1FB92485C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1FE92F-AA1F-45FA-9CE6-F1FB92485C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1FE92F-AA1F-45FA-9CE6-F1FB92485C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A9ABC1-38E9-447E-A621-B73574079A8F}
+	EndGlobalSection
+EndGlobal
